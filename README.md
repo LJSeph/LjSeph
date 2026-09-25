@@ -3,7 +3,7 @@
 <p align="center">
   <a href="Update this>Website</a> •
   <a href="(https://www.linkedin.com/in/lance-joseph-sotto/)">LinkedIn</a> •
-  
+  <a href="(https://www.facebook.com/lnc.stto?)">Facebook</a> •
 </p>
 
 ---
