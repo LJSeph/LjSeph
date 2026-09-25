@@ -1,4 +1,19 @@
-## Testing
+<h3 align="center">👋 Hi there, I'm Lance Joseph Sotto</h3>
+
+<p align="center">
+  <a href="Update this>Website</a> •
+  <a href="(https://www.linkedin.com/in/lance-joseph-sotto/)">LinkedIn</a> •
+  
+</p>
+
+---
+
+I'm a student software engineer and developer currently studying at National Dasmariñas, currently taking Computer Scienced specialized in Machine Learning
+
+---
+
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lance-joseph-sotto) or [email](mailto:paladins01231@gmail.com)  
+- 😄 Pronouns: He/Him
 
 <!--
 **LJSeph/LjSeph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
