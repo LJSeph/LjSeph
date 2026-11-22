@@ -8,7 +8,7 @@
 
 ---
 
-I'm a student software engineer and developer currently studying at National Dasmariñas, currently taking Computer Scienced specialized in Machine Learning
+I'm a student developer currently studying at National University Dasmariñas, currently taking Computer Science, specializing in Machine Learning
 
 ---
 
